@@ -1,5 +1,3 @@
-This is our backend API documentation that incorporates digital wallet integration for payments, more private NFC tap-to-pay, and free transfer tracking within a 2-hour window from the first payment built using privacy by design principles.
-
 # **Backend API Documentation**
 
 ## **Base URL**
