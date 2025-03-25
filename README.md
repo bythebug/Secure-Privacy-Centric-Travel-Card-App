@@ -102,7 +102,3 @@ Contributions are welcome! To contribute:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-*Note: This README is based on the project description available at the time. For the latest information and updates, please refer to the project's [GitHub repository](https://github.com/bythebug/Secure-Privacy-Centric-Travel-Card-App).* 
